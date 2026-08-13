@@ -1,22 +1,9 @@
 [
-  {
-    "id": 1,
-    "nama": "Nama Aplikasi Mod 1",
-    "kategori": "Games",
-    "versi": "v1.2.3",
-    "ukuran": "45 MB",
-    "deskripsi": "Fitur mod: Unlimited Money, No Ads.",
-    "gambar": "image/app1.png",
-    "link_download": "https://example.com/download"
-  },
-  {
-    "id": 2,
-    "nama": "Nama Aplikasi Mod 2",
-    "kategori": "Tools",
-    "versi": "v2.0",
-    "ukuran": "15 MB",
-    "deskripsi": "Fitur mod: Premium Unlocked.",
-    "gambar": "image/app2.png",
-    "link_download": "https://example.com/download"
-  }
+    {
+        "id": 1,
+        "url": "https://res.cloudinary.com/z9u3sklh/video/upload/v1786646508/ssstik.io__prstdann_1786646235118_tuek4i.mp4",
+        "title": "@𝙥𝙧𝙨𝙩𝙙𝙖𝙣𝙣 𝖋𝖙 𝐀𝐌",
+        "am_link": "https://alightcreative.com/am/share/u/G86dPuJTYJez3l5qXjs5qYeIeuf2/p/PpTjbc56pk-b951df5c9166bf9b",
+        "xml_link": "https://drive.google.com/file/d/1A-BFYGhMgRHGrZTdic8zeCEctKHZRE6o/view?usp=drivesdk"
+    }
 ]
